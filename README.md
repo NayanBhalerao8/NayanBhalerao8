@@ -1,289 +1,72 @@
-# Hi there 👋 I'm Nayan Bhalerao
+# Hi, I'm Nayan 👋
 
+Backend Engineer passionate about building scalable web applications and solving complex backend problems.
 
+## About Me
 
-### Backend Engineer | Ruby on Rails | Scalable Systems | APIs | AI Integrations | PostgreSQL | AWS
-
-
-
-I am a Backend Engineer with **4.8+ years of software engineering experience**, specializing in building **production-grade web applications, enterprise backend systems, payment workflows, large-scale refactoring, API integrations, and AI-powered developer workflows**.
-
-
-
-Currently focused on becoming a **high-performance backend engineer who leverages AI to build faster, smarter, and end-to-end production systems.**
-
-
+* Backend Engineer with 4+ years of software development experience
+* Strong experience in building applications using Ruby and Ruby on Rails
+* Interested in scalable backend architecture, API design, databases, and system design
+* Comfortable working across backend development, integrations, debugging, testing, and deployments
+* Exploring AI-assisted software development and developer productivity workflows
 
 ---
 
+## Tech Stack
 
+**Languages**
+Ruby • JavaScript • SQL
 
-## 🚀 About Me
+**Backend**
+Ruby on Rails • REST APIs • Sidekiq • ActiveAdmin • Redis • JWT • Devise
 
+**Database**
+PostgreSQL • Database Design • Query Optimization • Indexing • ActiveRecord
 
+**Frontend**
+HTML • CSS • TailwindCSS • Hotwire • Turbo • Stimulus • React (basic)
 
-* 💻 Backend Engineer with strong expertise in **Ruby on Rails**
+**Cloud / DevOps**
+Docker • AWS App Runner • Heroku • Git • GitHub Actions
 
-* ⚡ Built and maintained enterprise healthcare and SaaS applications
+**Testing**
+RSpec • FactoryBot • Postman
 
-* 🔥 Experience working on **Stripe, ACH Payments, CRM Integrations, Background Jobs, APIs, and Large Database Refactoring**
-
-* 🤖 Worked on **LLM Integrations, Gemini API, Claude Code workflows, MCP tools, AI automation**
-
-* ☁️ Experience with **Docker, AWS App Runner, PostgreSQL, Redis, Sidekiq**
-
-* 🧠 Currently preparing for **Backend Engineer roles (15–18+ LPA target)**
-
-
-
----
-
-
-
-## 🛠 Tech Stack
-
-
-
-### Languages
-
-
-
-Ruby | JavaScript | SQL
-
-
-
-### Backend
-
-
-
-Ruby on Rails | REST APIs | Service Objects | ActiveAdmin | Sidekiq | Redis | JWT | Devise
-
-
-
-### Database
-
-
-
-PostgreSQL | Query Optimization | Indexing | Migrations | STI | Polymorphic Associations
-
-
-
-### Frontend
-
-
-
-HTML | CSS | Tailwind CSS | Turbo | Stimulus | React (Basic)
-
-
-
-### Cloud & DevOps
-
-
-
-Docker | AWS App Runner | Heroku | GitHub Actions
-
-
-
-### AI & Automation
-
-
-
-Claude Code | Gemini API | MCP | Prompt Engineering | AI Workflows | Helicone | LLM Integrations
-
-
-
-### Testing
-
-
-
-RSpec | FactoryBot | API Testing | Postman
-
-
+**AI / Automation**
+Claude Code • Gemini API • Prompt Engineering • MCP • AI Workflow Automation
 
 ---
 
+## Areas I Have Worked On
 
-
-## 💼 Professional Experience
-
-
-
-### Healthcare Credentialing Platforms
-
-
-
-Worked on enterprise healthcare systems managing:
-
-
-
-* Medical License Tracking
-
-* Multi-state Renewal Flows
-
-* ACH Payment Systems
-
-* Stripe Payment Integration
-
-* CRM / Microsoft Dataverse Synchronization
-
-* Compliance Tracking for U.S. Healthcare Professionals
-
-
-
-### Enterprise SaaS Platforms
-
-
-
-Built systems for:
-
-
-
-* Employee Management
-
-* Time Tracking
-
-* Leave Management
-
-* Asset Management
-
-* Google Calendar Integration
-
-* Jira Integration
-
-* Google Drive Integration
-
-* AI Library + MCP Tools
-
-
+* API Development & Integrations
+* Authentication & Authorization Systems
+* Background Jobs & Queue Processing
+* Payment Workflow Implementations
+* Third Party Service Integrations
+* Database Refactoring & Schema Changes
+* Testing & Test Coverage Improvements
+* Deployment & Production Debugging
+* AI Assisted Development Workflows
 
 ---
 
+## Currently Learning
 
-
-## 🏗 Key Engineering Work
-
-
-
-* Built **ACH Payment Flow State Machine using AASM**
-
-* Led large **DEA/CSR STI Refactoring & Data Migration**
-
-* Integrated **Stripe Payment Processing**
-
-* Built **Google Calendar Interview Scheduling System**
-
-* Developed **Jira Sync Services + Webhook Processing**
-
-* Improved test coverage from **25% → 70%**
-
-* Integrated **Gemini API + Helicone API Tracking**
-
-* Built AI-powered documentation and workflow automation systems
-
-
-
----
-
-
-
-## 📚 Currently Learning
-
-
-
-* Data Structures & Algorithms (Ruby)
-
+* Data Structures & Algorithms
 * System Design
-
-* Advanced PostgreSQL Optimization
-
-* AI Engineering Workflows
-
+* Advanced PostgreSQL
 * AWS Cloud Fundamentals
-
-
-
----
-
-
-
-## 📈 Current Focus
-
-
-
-```text
-
-30 Day War Zone Mode 🚀
-
-
-
-Goal:
-
-→ Become 10x Engineer using AI + Engineering
-
-→ Crack Backend Engineer role at 18 LPA
-
-```
-
-
+* AI Powered Development Workflows
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayanBhalerao8\&show_icons=true)
-
-
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanBhalerao8\&layout=compact)
 
-
-
 ---
 
-
-
-## 🔥 GitHub Streak
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NayanBhalerao8)
-
-
-
----
-
-
-
-## 👀 Profile Visitors
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=NayanBhalerao8)
-
-
-
----
-
-
-
-## 🤝 Connect With Me
-
-
+## Connect
 
 GitHub: https://github.com/NayanBhalerao8
-
-
-
-LinkedIn: (Add your LinkedIn here)
-
-
-
----
-
-
-
-*"Engineering is not about writing code. It is about building systems that scale, survive, and solve real problems."* ⚡
