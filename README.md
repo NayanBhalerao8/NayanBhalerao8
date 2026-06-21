@@ -98,8 +98,7 @@ Passionate about solving backend engineering problems, building scalable systems
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/NayanBhalerao8">GitHub</a> •  
-Add your LinkedIn here 🔗
+<a href="https://github.com/NayanBhalerao8">GitHub</a> • <a href="https://www.linkedin.com/in/nayanbhalerao/">LinkedIn</a>
 </p>
 
 ---
