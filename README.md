@@ -1,72 +1,109 @@
-# Hi, I'm Nayan 👋
+<h1 align="center">Hi 👋, I'm Nayan Bhalerao</h1>
+<h3 align="center">Backend Engineer | Ruby on Rails Developer | Building Scalable Web Applications 🚀</h3>
 
-Backend Engineer passionate about building scalable web applications and solving complex backend problems.
-
-## About Me
-
-* Backend Engineer with 4+ years of software development experience
-* Strong experience in building applications using Ruby and Ruby on Rails
-* Interested in scalable backend architecture, API design, databases, and system design
-* Comfortable working across backend development, integrations, debugging, testing, and deployments
-* Exploring AI-assisted software development and developer productivity workflows
+<p align="center">
+Passionate about solving backend engineering problems, building scalable systems, and continuously improving as a software engineer.
+</p>
 
 ---
 
-## Tech Stack
+## 👩‍💻 About Me
 
-**Languages**
-Ruby • JavaScript • SQL
-
-**Backend**
-Ruby on Rails • REST APIs • Sidekiq • ActiveAdmin • Redis • JWT • Devise
-
-**Database**
-PostgreSQL • Database Design • Query Optimization • Indexing • ActiveRecord
-
-**Frontend**
-HTML • CSS • TailwindCSS • Hotwire • Turbo • Stimulus • React (basic)
-
-**Cloud / DevOps**
-Docker • AWS App Runner • Heroku • Git • GitHub Actions
-
-**Testing**
-RSpec • FactoryBot • Postman
-
-**AI / Automation**
-Claude Code • Gemini API • Prompt Engineering • MCP • AI Workflow Automation
+✨ Backend Engineer with **4+ years of experience** building production-grade applications
+💎 Strong experience in **Ruby, Ruby on Rails, PostgreSQL, APIs, and Backend Architecture**
+⚡ Comfortable working on **backend systems, debugging production issues, integrations, testing, and deployments**
+🤖 Exploring **AI-assisted development workflows, Claude Code, MCP, and developer productivity automation**
+🌱 Always curious about writing clean code and understanding how systems work behind the scenes
 
 ---
 
-## Areas I Have Worked On
+## 🛠️ Tech Stack
 
-* API Development & Integrations
-* Authentication & Authorization Systems
-* Background Jobs & Queue Processing
-* Payment Workflow Implementations
-* Third Party Service Integrations
-* Database Refactoring & Schema Changes
-* Testing & Test Coverage Improvements
-* Deployment & Production Debugging
-* AI Assisted Development Workflows
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,js" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rails,redis" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman" />
+</p>
+
+### 🧪 Testing & Development
+
+<p>
+  RSpec • Sidekiq • ActiveAdmin • REST APIs • JWT • Devise
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+  Claude Code • Gemini API • MCP • Prompt Engineering • AI Workflow Automation
+</p>
 
 ---
 
-## Currently Learning
+## 🚀 Engineering Areas I Have Worked On
 
-* Data Structures & Algorithms
-* System Design
-* Advanced PostgreSQL
-* AWS Cloud Fundamentals
-* AI Powered Development Workflows
+🔹 API Development & Third Party Integrations
+🔹 Authentication & Authorization Systems
+🔹 Background Jobs & Queue Processing
+🔹 Database Design, Migrations & Query Optimization
+🔹 Payment Workflow Implementations
+🔹 Scalable Backend Architecture
+🔹 Production Debugging & Bug Fixing
+🔹 Test Coverage Improvements & Automated Testing
+🔹 Deployment & Cloud Based Workflows
+🔹 AI Assisted Development Workflows
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanBhalerao8\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NayanBhalerao8&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanBhalerao8&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## Connect
+## 👀 Profile Views
 
-GitHub: https://github.com/NayanBhalerao8
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NayanBhalerao8&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://github.com/NayanBhalerao8">GitHub</a> •  
+Add your LinkedIn here 🔗
+</p>
+
+---
+
+<p align="center">
+<i>"Building software is not just writing code — it's designing systems that solve real problems."</i> ⚡
+</p>
