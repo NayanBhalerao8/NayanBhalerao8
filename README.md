@@ -72,15 +72,26 @@ Passionate about solving backend engineering problems, building scalable systems
 
 ## 🚀 Engineering Areas I Have Worked On
 
-🔹 API Development & Third Party Integrations
-🔹 Authentication & Authorization Systems
-🔹 Background Jobs & Queue Processing
-🔹 Database Design, Migrations & Query Optimization
-🔹 Payment Workflow Implementations
-🔹 Scalable Backend Architecture
-🔹 Production Debugging & Bug Fixing
-🔹 Test Coverage Improvements & Automated Testing
-🔹 Deployment & Cloud Based Workflows
+
+
+🔹 API Development & Third Party Integrations<br>
+
+🔹 Authentication & Authorization Systems<br>
+
+🔹 Background Jobs & Queue Processing<br>
+
+🔹 Database Design, Migrations & Query Optimization<br>
+
+🔹 Payment Workflow Implementations<br>
+
+🔹 Scalable Backend Architecture<br>
+
+🔹 Production Debugging & Bug Fixing<br>
+
+🔹 Test Coverage Improvements & Automated Testing<br>
+
+🔹 Deployment & Cloud Based Workflows<br>
+
 🔹 AI Assisted Development Workflows
 
 ---
